@@ -1,8 +1,7 @@
 # py_engineer_daily
 
 
-
-## 2019-07-10    常量对象
+## 2019-07-10    两个常量对象, None与...(ellipsis)
 
 ### 1、None对象
 
