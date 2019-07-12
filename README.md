@@ -7,4 +7,4 @@
     3、底层原理；
      
 ## Note:
-1、python version > 3.6.0
+1、python version > 3.6.0;
